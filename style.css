@@ -1,0 +1,85 @@
+h3{
+  text-align: center;
+  padding: 15px;
+}
+img{
+
+}
+h5{
+  text-align: center;
+}
+
+a{
+  color: #204051
+}
+.title{
+  padding: 35px;
+  /* background-color: #ddf3f; */
+  text-align: left;
+  /* background-color: #84a9ac; */
+    background-color: #f7f7ee;
+}
+td{
+  padding: 10px;
+}
+.nav-color{
+  background-color: #f7f7ee;
+  padding: 20px;
+}
+.heading1{
+  font-family: Handlee;
+  font-size: 4rem;
+}
+.OverViewPara{
+  font-size: 1.1rem;
+}
+.container2{
+  background-color: #e7dfd5
+}
+.boycottChinaHeading{
+  text-align: center;
+  font-family: Handlee;
+  padding: 15px;
+}
+.imageBoycottChina{
+text-align: center;
+
+}
+.paraBoycottChina{
+padding: 15px;
+text-align: center;
+font-size: 1.5rem;
+}
+.secondParaBoycottChina{
+  text-align: center;
+  padding: 15px;
+  line-height: normal;
+  font-size: 1.3rem;
+}
+.thirdParaBoycottChina{
+  padding: 15px;
+  text-align: left;
+  font-size: 1.1rem;
+
+}
+
+  .btn {
+  	box-shadow: 0 10px 14px -7px #066cfb;
+  	background:linear-gradient(to bottom, #66bfbf 5%, #66bfbf 100%);
+  	background-color:#66bfbf;
+  	border-radius:4px;
+  	border:1px solid #66bfbf;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:25px;
+  	font-weight:bold;
+  	padding:13px 12px;
+  	text-decoration:none;
+  	text-shadow:0 0 0 #5b8a3c;
+
+  }
+  .footer{
+    padding-bottom: 20px;
+  }
